@@ -1,6 +1,6 @@
 # Trillo
 
-## Trillo is a Web App which enables user to explore hotels around web. Have a Visit 👇
+## Trillo is a Web App(fictional) which enables user to explore hotels around web. Have a Visit 👇
 
 [Trillo](https://prathameshbelurkar.github.io/Trillo/)
 
